@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\bin\Debug\netcoreapp3.1\at marlao 1.exe
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\bin\Debug\netcoreapp3.1\at marlao 1.deps.json
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\bin\Debug\netcoreapp3.1\at marlao 1.runtimeconfig.json
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\bin\Debug\netcoreapp3.1\at marlao 1.runtimeconfig.dev.json
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\bin\Debug\netcoreapp3.1\at marlao 1.dll
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\bin\Debug\netcoreapp3.1\at marlao 1.pdb
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\obj\Debug\netcoreapp3.1\at marlao 1.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\obj\Debug\netcoreapp3.1\at marlao 1.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\obj\Debug\netcoreapp3.1\at marlao 1.AssemblyInfo.cs
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\obj\Debug\netcoreapp3.1\at marlao 1.dll
+C:\Users\filip\source\repos\at marlao 1\at marlao 1\obj\Debug\netcoreapp3.1\at marlao 1.pdb
